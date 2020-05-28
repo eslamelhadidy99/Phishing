@@ -1,0 +1,23 @@
+	X-MailControl-Globvar-Relay: o9.sg.eomail5.com
+X-MailControl-Globvar-EnvSender: DATA
+Received: from o9.sg.eomail5.com (o9.sg.eomail5.com [192.254.117.208]) (using TLSv1.2 with cipher AES256-GCM-SHA384 (256/256 bits)) (No client certificate requested) by Email Gateway with ESMTPS id B3BF570AAECF75379E2D for <adibegypt@adib.eg>; Thu, 28 May 2020 08:30:19 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=abiq.io; h=content-type:from:mime-version:to:subject:list-unsubscribe; s=eo; bh=aLNA7c5hyq7zggnRsEDvudYCpt/q3e5gJdtS9nRsSN4=; b=AjP5s4m BKZIxQ8UVtuibseKrDlTN16lm9+8VxcfdUUXFiDMOWkyRnQXx0IsdtXbjRBkQ6gY hPQp30mW+QnAgANkt5a6fRteCz4dekl9aRzAoiE2n0J0xyJPlj4aDTNk8z5WibS0 AIfIgnCdxZP6VP90fW8yFcLvO2r3oAI75YpA=
+Received: by filter1764p1mdw1.sendgrid.net with SMTP id filter1764p1mdw1-14402-5ECF5A77-6 2020-05-28 06:30:15.464240737 +0000 UTC m=+824804.163605167
+Received: from MTUzOTk2ODA (unknown) by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id YSKiiSoPReaLWNY7JWL2Yg Thu, 28 May 2020 06:30:15.224 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0f0ba9cab678c3b1b64b57a541927877a219ea2e06b38b9dda04e09a8e65
+Date: Thu, 28 May 2020 06:30:15 +0000 (UTC)
+From: "Farhaad" <farhaad@abiq.io>
+Mime-Version: 1.0
+To: adibegypt@adib.eg <adibegypt@adib.eg>
+Message-ID: <YSKiiSoPReaLWNY7JWL2Yg@ismtpd0004p1lon1.sendgrid.net>
+Subject: ABiQ Community: Grow your business network in Africa!
+X-EmailOctopus-Parent-Type-Id: campaign
+X-EmailOctopus-List-Contact-Id: a664a07a-8ea4-11ea-a3d0-06b4694bee2a
+X-EmailOctopus-Sent-At: 2020-05-28T06:30:15+00:00
+X-EmailOctopus-Version: 3
+X-EmailOctopus-Started-Preparing-At: 2020-05-28T06:26:33+00:00
+X-EmailOctopus-Parent-Id: 10f7d23d-a0ac-11ea-a3d0-06b4694bee2a
+List-unsubscribe: <https://alecto.eomail5.com/unsubscribe?l=f39f528a-8dcf-11ea-a3d0-06b4694bee2a&lc=a664a07a-8ea4-11ea-a3d0-06b4694bee2a&p=10f7d23d-a0ac-11ea-a3d0-06b4694bee2a&pt=campaign&spa=1590647193&t=1590647415&s=b0c07aba3b1fec2aa9d1c757805c6735ac8e247fb57923f0d7ce49c42cda7cce&skipConfirmation=1>
+X-EmailOctopus-List-Id: f39f528a-8dcf-11ea-a3d0-06b4694bee2a
+X-SG-EID: 4k4WjfBpfwDwp5QR2nTxptb2lZl78otfG5l2eDsXeCLbewIZlEuYitT145neEO3QVSM8/wXZ4rl3jK rQUbgGGyUxNFM3qrfdKhuvqr+D0Mmln8RiB3lOg265jrcDewnF76+yV5JEn5tUnFx5RykgBVSe81hR Eomj/pVzyDRwW4pESQAQwWN3hqsHVKAfBTYiDSHbfE56GvBw6FDdf/TFgw==
+X-SG-ID: 0iJm7prgJAttnXyjpMH3siwTGxiviWfv25V5t/RVFRyli0ukkOnVNhTQZ/Nidq2AM2h8DAm+P+1+Wy x+3FrWGjQ0Lxl4c2XaXQMykhoS6wyEYViQSsZ9pTAR7atjh/qaSyUXu6OSJqXJ/vf5MXesCl+ccuT6 Q2D9E9SwNbxFgH0GhqtpqwRAY7U5WdYTZGiE0KdaLzPaUzzoFQDDqpJMdOWsxIlgRUYC/q9OBaOiIQ wZ+UiXNWsX4rGG0c6vk1urSUzIc4tP4mMLc+akTyX3ws5LC/JzNXjm+ZEdkPScb3j3BVWYgjhJdi8e a9doX0ZKwjLDu3cqH6dZ0UdXHBAZ1ak7eX/UAlo9VrFpkiHAkfYJgXYdjT6vxI5BYGZsIMowysW2Xh jIktCjAYdIr4rdg/Z/FxUR4Xvq4pfqPLkliQP8WGGJcB0HFe1nCueOQxGoXAHcSMshs7TqupTA7iRd SmghCvyCLlPun5VA42ue5V+48UULQZFgFVCcfaRcSycB
