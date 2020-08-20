@@ -10,3 +10,6 @@ Received: from MTUzOTk2ODA (unknown) by ismtpd0004p1lon1.sendgrid.net (SG) with 
 
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc2OTg0MmEtODVjYS00MzVkLTg5MmMtNmViNTViMWFmZWE1%40thread.v2/0?context=%7b%22Tid%22%3a%22bb6ed0d6-8e5e-497f-91c1-f1a0cc22510e%22%2c%22Oid%22%3a%22202f2b74-fa8b-45cc-9ed3-be62fe71f79c%22%7d
+
+
+https://attack.mitre.org/techniques/T1055/011/
